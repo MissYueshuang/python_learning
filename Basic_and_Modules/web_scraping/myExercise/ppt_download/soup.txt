@@ -1,0 +1,1479 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# 2490221586: http://ogp.me/ns/fb/2490221586#">
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=no" name="viewport"/>
+  <meta content="async" name="include_mode"/>
+  <!-- SL:start:notranslate -->
+  <title>
+   Explore
+  </title>
+  <meta content="" name="description"/>
+  <!-- SL:end:notranslate -->
+  <meta content="index" name="robots"/>
+  <meta content="https://www.linkedin.com/li/track" id="globalTrackingUrl"/>
+  <link href="https://public.slidesharecdn.com/favicon.ico?d8e2a4ed15" rel="shortcut icon"/>
+  <link href="https://www.slideshare.net/rss/latest" rel="alternate" title="RSS" type="application/rss+xml"/>
+  <link href="/opensearch.xml" rel="search" title="SlideShare Search" type="application/opensearchdescription+xml"/>
+  <link href="https://public.slidesharecdn.com/ss_foundation/stylesheets/app_critical.css?c5cb4f8963" media="screen" rel="stylesheet" type="text/css"/>
+  <!--[if IE 9]><link href="https://public.slidesharecdn.com/ss_foundation/stylesheets/ie9_nav_bar_fix.css?8fb8af5274" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
+  <link href="https://www.slideshare.net/explore" hreflang="en" rel="alternate"/>
+  <link href="https://es.slideshare.net/explore" hreflang="es" rel="alternate"/>
+  <link href="https://fr.slideshare.net/explore" hreflang="fr" rel="alternate"/>
+  <link href="https://de.slideshare.net/explore" hreflang="de" rel="alternate"/>
+  <link href="https://pt.slideshare.net/explore" hreflang="pt" rel="alternate"/>
+  <link href="https://www.slideshare.net/explore" hreflang="x-default" rel="alternate"/>
+  <meta content="authenticity_token" name="csrf-param"/>
+  <meta content="nYc74qTNC5TGl0p5kRkXF7aXkJhEown73k74GtQhotg=" name="csrf-token"/>
+  <link href="https://public.slidesharecdn.com/ss_foundation/stylesheets/topics.css?f028c5820f" media="screen" rel="stylesheet" type="text/css"/>
+  <link href="//www.slideshare.net" rel="dns-prefetch"/>
+  <link href="//public.slidesharecdn.com" rel="dns-prefetch"/>
+  <link href="//image.slidesharecdn.com" rel="dns-prefetch"/>
+  <link href="//cdn.slidesharecdn.com" rel="dns-prefetch"/>
+  <link href="//www.linkedin.com" rel="dns-prefetch"/>
+  <script type="text/javascript">
+   // Inlining Modernizr
+      window.Modernizr=function(a,b,c){function d(a){t.cssText=a}function e(a,b){return d(x.join(a+";")+(b||""))}function f(a,b){return typeof a===b}function g(a,b){return!!~(""+a).indexOf(b)}function h(a,b){for(var d in a){var e=a[d];if(!g(e,"-")&&t[e]!==c)return"pfx"==b?e:!0}return!1}function i(a,b,d){for(var e in a){var g=b[a[e]];if(g!==c)return d===!1?a[e]:f(g,"function")?g.bind(d||b):g}return!1}function j(a,b,c){var d=a.charAt(0).toUpperCase()+a.slice(1),e=(a+" "+z.join(d+" ")+d).split(" ");return f(b,"string")||f(b,"undefined")?h(e,b):(e=(a+" "+A.join(d+" ")+d).split(" "),i(e,b,c))}function k(){o.input=function(c){for(var d=0,e=c.length;e>d;d++)E[c[d]]=!!(c[d]in u);return E.list&&(E.list=!(!b.createElement("datalist")||!a.HTMLDataListElement)),E}("autocomplete autofocus list placeholder max min multiple pattern required step".split(" ")),o.inputtypes=function(a){for(var d,e,f,g=0,h=a.length;h>g;g++)u.setAttribute("type",e=a[g]),d="text"!==u.type,d&&(u.value=v,u.style.cssText="position:absolute;visibility:hidden;",/^range$/.test(e)&&u.style.WebkitAppearance!==c?(q.appendChild(u),f=b.defaultView,d=f.getComputedStyle&&"textfield"!==f.getComputedStyle(u,null).WebkitAppearance&&0!==u.offsetHeight,q.removeChild(u)):/^(search|tel)$/.test(e)||(d=/^(url|email)$/.test(e)?u.checkValidity&&u.checkValidity()===!1:u.value!=v)),D[a[g]]=!!d;return D}("search tel url email datetime date month week time datetime-local number range color".split(" "))}var l,m,n="2.8.2",o={},p=!0,q=b.documentElement,r="modernizr",s=b.createElement(r),t=s.style,u=b.createElement("input"),v=":)",w={}.toString,x=" -webkit- -moz- -o- -ms- ".split(" "),y="Webkit Moz O ms",z=y.split(" "),A=y.toLowerCase().split(" "),B={svg:"http://www.w3.org/2000/svg"},C={},D={},E={},F=[],G=F.slice,H=function(a,c,d,e){var f,g,h,i,j=b.createElement("div"),k=b.body,l=k||b.createElement("body");if(parseInt(d,10))for(;d--;)h=b.createElement("div"),h.id=e?e[d]:r+(d+1),j.appendChild(h);return f=["&#173;",'<style id="s',r,'">',a,"</style>"].join(""),j.id=r,(k?j:l).innerHTML+=f,l.appendChild(j),k||(l.style.background="",l.style.overflow="hidden",i=q.style.overflow,q.style.overflow="hidden",q.appendChild(l)),g=c(j,a),k?j.parentNode.removeChild(j):(l.parentNode.removeChild(l),q.style.overflow=i),!!g},I=function(b){var c=a.matchMedia||a.msMatchMedia;if(c)return c(b)&&c(b).matches||!1;var d;return H("@media "+b+" { #"+r+" { position: absolute; } }",function(b){d="absolute"==(a.getComputedStyle?getComputedStyle(b,null):b.currentStyle).position}),d},J=function(){function a(a,e){e=e||b.createElement(d[a]||"div"),a="on"+a;var g=a in e;return g||(e.setAttribute||(e=b.createElement("div")),e.setAttribute&&e.removeAttribute&&(e.setAttribute(a,""),g=f(e[a],"function"),f(e[a],"undefined")||(e[a]=c),e.removeAttribute(a))),e=null,g}var d={select:"input",change:"input",submit:"form",reset:"form",error:"img",load:"img",abort:"img"};return a}(),K={}.hasOwnProperty;m=f(K,"undefined")||f(K.call,"undefined")?function(a,b){return b in a&&f(a.constructor.prototype[b],"undefined")}:function(a,b){return K.call(a,b)},Function.prototype.bind||(Function.prototype.bind=function(a){var b=this;if("function"!=typeof b)throw new TypeError;var c=G.call(arguments,1),d=function(){if(this instanceof d){var e=function(){};e.prototype=b.prototype;var f=new e,g=b.apply(f,c.concat(G.call(arguments)));return Object(g)===g?g:f}return b.apply(a,c.concat(G.call(arguments)))};return d}),C.flexbox=function(){return j("flexWrap")},C.flexboxlegacy=function(){return j("boxDirection")},C.canvas=function(){var a=b.createElement("canvas");return!(!a.getContext||!a.getContext("2d"))},C.canvastext=function(){return!(!o.canvas||!f(b.createElement("canvas").getContext("2d").fillText,"function"))},C.webgl=function(){return!!a.WebGLRenderingContext},C.touch=function(){var c;return"ontouchstart"in a||a.DocumentTouch&&b instanceof DocumentTouch?c=!0:H(["@media (",x.join("touch-enabled),("),r,")","{#modernizr{top:9px;position:absolute}}"].join(""),function(a){c=9===a.offsetTop}),c},C.geolocation=function(){return"geolocation"in navigator},C.postmessage=function(){return!!a.postMessage},C.websqldatabase=function(){return!!a.openDatabase},C.indexedDB=function(){return!!j("indexedDB",a)},C.hashchange=function(){return J("hashchange",a)&&(b.documentMode===c||b.documentMode>7)},C.history=function(){return!(!a.history||!history.pushState)},C.draganddrop=function(){var a=b.createElement("div");return"draggable"in a||"ondragstart"in a&&"ondrop"in a},C.websockets=function(){return"WebSocket"in a||"MozWebSocket"in a},C.rgba=function(){return d("background-color:rgba(150,255,150,.5)"),g(t.backgroundColor,"rgba")},C.hsla=function(){return d("background-color:hsla(120,40%,100%,.5)"),g(t.backgroundColor,"rgba")||g(t.backgroundColor,"hsla")},C.multiplebgs=function(){return d("background:url(https://),url(https://),red url(https://)"),/(url\s*\(.*?){3}/.test(t.background)},C.backgroundsize=function(){return j("backgroundSize")},C.borderimage=function(){return j("borderImage")},C.borderradius=function(){return j("borderRadius")},C.boxshadow=function(){return j("boxShadow")},C.textshadow=function(){return""===b.createElement("div").style.textShadow},C.opacity=function(){return e("opacity:.55"),/^0.55$/.test(t.opacity)},C.cssanimations=function(){return j("animationName")},C.csscolumns=function(){return j("columnCount")},C.cssgradients=function(){var a="background-image:",b="gradient(linear,left top,right bottom,from(#9f9),to(white));",c="linear-gradient(left top,#9f9, white);";return d((a+"-webkit- ".split(" ").join(b+a)+x.join(c+a)).slice(0,-a.length)),g(t.backgroundImage,"gradient")},C.cssreflections=function(){return j("boxReflect")},C.csstransforms=function(){return!!j("transform")},C.csstransforms3d=function(){var a=!!j("perspective");return a&&"webkitPerspective"in q.style&&H("@media (transform-3d),(-webkit-transform-3d){#modernizr{left:9px;position:absolute;height:3px;}}",function(b){a=9===b.offsetLeft&&3===b.offsetHeight}),a},C.csstransitions=function(){return j("transition")},C.fontface=function(){var a;return H('@font-face {font-family:"font";src:url("https://")}',function(c,d){var e=b.getElementById("smodernizr"),f=e.sheet||e.styleSheet,g=f?f.cssRules&&f.cssRules[0]?f.cssRules[0].cssText:f.cssText||"":"";a=/src/i.test(g)&&0===g.indexOf(d.split(" ")[0])}),a},C.generatedcontent=function(){var a;return H(["#",r,"{font:0/0 a}#",r,':after{content:"',v,'";visibility:hidden;font:3px/1 a}'].join(""),function(b){a=b.offsetHeight>=3}),a},C.video=function(){var a=b.createElement("video"),c=!1;try{(c=!!a.canPlayType)&&(c=new Boolean(c),c.ogg=a.canPlayType('video/ogg; codecs="theora"').replace(/^no$/,""),c.h264=a.canPlayType('video/mp4; codecs="avc1.42E01E"').replace(/^no$/,""),c.webm=a.canPlayType('video/webm; codecs="vp8, vorbis"').replace(/^no$/,""))}catch(d){}return c},C.audio=function(){var a=b.createElement("audio"),c=!1;try{(c=!!a.canPlayType)&&(c=new Boolean(c),c.ogg=a.canPlayType('audio/ogg; codecs="vorbis"').replace(/^no$/,""),c.mp3=a.canPlayType("audio/mpeg;").replace(/^no$/,""),c.wav=a.canPlayType('audio/wav; codecs="1"').replace(/^no$/,""),c.m4a=(a.canPlayType("audio/x-m4a;")||a.canPlayType("audio/aac;")).replace(/^no$/,""))}catch(d){}return c},C.localstorage=function(){try{return localStorage.setItem(r,r),localStorage.removeItem(r),!0}catch(a){return!1}},C.sessionstorage=function(){try{return sessionStorage.setItem(r,r),sessionStorage.removeItem(r),!0}catch(a){return!1}},C.webworkers=function(){return!!a.Worker},C.applicationcache=function(){return!!a.applicationCache},C.svg=function(){return!!b.createElementNS&&!!b.createElementNS(B.svg,"svg").createSVGRect},C.inlinesvg=function(){var a=b.createElement("div");return a.innerHTML="<svg/>",(a.firstChild&&a.firstChild.namespaceURI)==B.svg},C.smil=function(){return!!b.createElementNS&&/SVGAnimate/.test(w.call(b.createElementNS(B.svg,"animate")))},C.svgclippaths=function(){return!!b.createElementNS&&/SVGClipPath/.test(w.call(b.createElementNS(B.svg,"clipPath")))};for(var L in C)m(C,L)&&(l=L.toLowerCase(),o[l]=C[L](),F.push((o[l]?"":"no-")+l));return o.input||k(),o.addTest=function(a,b){if("object"==typeof a)for(var d in a)m(a,d)&&o.addTest(d,a[d]);else{if(a=a.toLowerCase(),o[a]!==c)return o;b="function"==typeof b?b():b,"undefined"!=typeof p&&p&&(q.className+=" "+(b?"":"no-")+a),o[a]=b}return o},d(""),s=u=null,function(a,b){function c(a,b){var c=a.createElement("p"),d=a.getElementsByTagName("head")[0]||a.documentElement;return c.innerHTML="x<style>"+b+"</style>",d.insertBefore(c.lastChild,d.firstChild)}function d(){var a=s.elements;return"string"==typeof a?a.split(" "):a}function e(a){var b=r[a[p]];return b||(b={},q++,a[p]=q,r[q]=b),b}function f(a,c,d){if(c||(c=b),k)return c.createElement(a);d||(d=e(c));var f;return f=d.cache[a]?d.cache[a].cloneNode():o.test(a)?(d.cache[a]=d.createElem(a)).cloneNode():d.createElem(a),!f.canHaveChildren||n.test(a)||f.tagUrn?f:d.frag.appendChild(f)}function g(a,c){if(a||(a=b),k)return a.createDocumentFragment();c=c||e(a);for(var f=c.frag.cloneNode(),g=0,h=d(),i=h.length;i>g;g++)f.createElement(h[g]);return f}function h(a,b){b.cache||(b.cache={},b.createElem=a.createElement,b.createFrag=a.createDocumentFragment,b.frag=b.createFrag()),a.createElement=function(c){return s.shivMethods?f(c,a,b):b.createElem(c)},a.createDocumentFragment=Function("h,f","return function(){var n=f.cloneNode(),c=n.createElement;h.shivMethods&&("+d().join().replace(/[\w\-]+/g,function(a){return b.createElem(a),b.frag.createElement(a),'c("'+a+'")'})+");return n}")(s,b.frag)}function i(a){a||(a=b);var d=e(a);return!s.shivCSS||j||d.hasCSS||(d.hasCSS=!!c(a,"article,aside,dialog,figcaption,figure,footer,header,hgroup,main,nav,section{display:block}mark{background:#FF0;color:#000}template{display:none}")),k||h(a,d),a}var j,k,l="3.7.0",m=a.html5||{},n=/^<|^(?:button|map|select|textarea|object|iframe|option|optgroup)$/i,o=/^(?:a|b|code|div|fieldset|h1|h2|h3|h4|h5|h6|i|label|li|ol|p|q|span|strong|style|table|tbody|td|th|tr|ul)$/i,p="_html5shiv",q=0,r={};!function(){try{var a=b.createElement("a");a.innerHTML="<xyz></xyz>",j="hidden"in a,k=1==a.childNodes.length||function(){b.createElement("a");var a=b.createDocumentFragment();return"undefined"==typeof a.cloneNode||"undefined"==typeof a.createDocumentFragment||"undefined"==typeof a.createElement}()}catch(c){j=!0,k=!0}}();var s={elements:m.elements||"abbr article aside audio bdi canvas data datalist details dialog figcaption figure footer header hgroup main mark meter nav output progress section summary template time video",version:l,shivCSS:m.shivCSS!==!1,supportsUnknownElements:k,shivMethods:m.shivMethods!==!1,type:"default",shivDocument:i,createElement:f,createDocumentFragment:g};a.html5=s,i(b)}(this,b),o._version=n,o._prefixes=x,o._domPrefixes=A,o._cssomPrefixes=z,o.mq=I,o.hasEvent=J,o.testProp=function(a){return h([a])},o.testAllProps=j,o.testStyles=H,o.prefixed=function(a,b,c){return b?j(a,b,c):j(a,"pfx")},q.className=q.className.replace(/(^|\s)no-js(\s|$)/,"$1$2")+(p?" js "+F.join(" "):""),o}(this,this.document);
+
+      // GA Segmentation
+      window._gaq = window._gaq || []; _gaq.push(['_setAccount', 'UA-2330466-1']);_gaq.push(['_setDomainName', '.slideshare.net']);_gaq.push(['_addIgnoredRef', 'slideshare.net']);_gaq.push(['_setCustomVar', 1, 'member_type', 'FREE', 1]);
+        _gaq.push(['_trackPageview']);
+
+      // Comscore
+      var _comscore = _comscore || [];
+      _comscore.push({ c1: "2", c2: "6402952" });
+
+      // Slideshare object
+      var slideshare_object = {
+        user: {"userGroup":"member","login":"YueshuangLeng","id":169881604,"loggedin":true,"name":"YueshuangLeng","is_valid_fbuser":false,"fb_userid":null,"is_pro":false,"su":false,"is_test_user":false,"has_uploads":false,"is_li_connected":true,"is_li_auto_created_user":false,"show_li_connect_cta":false,"has_privacy_enabled":true,"li_tracking_url":"https://www.linkedin.com/li/track"},
+        timer: { start: (new Date()).getTime(), end: '', execTime: '' },
+        top_nav: { get_url: "/top_nav"},
+        dev: false,
+        init: [],
+        feature_flag: [],
+        is_mobile: "",
+        deploy_environment: "production",
+        rum_pagekey: "desktop_other",
+        is_ssl: true
+      };
+  </script>
+  <meta content="https://public.slidesharecdn.com/images/artdeco/icons.svg?b5af75c98a" name="ss-svg-icons"/>
+  <script src="https://public.slidesharecdn.com/ss_foundation/combined_experiments.js?59e3c7a1df" type="text/javascript">
+  </script>
+  <!-- RUM javascript -->
+  <script>
+   // <![CDATA[
+  (function() {
+    window.slideshare_object = window.slideshare_object || {};
+    slideshare_object.rum = {
+      beacon_url: 'https://www.linkedin.com/lite/rum-track',
+      report: {},
+      fire: function() {}
+    };
+  }());
+// ]]>
+  </script>
+  <script>
+   // <![CDATA[
+    (function() {
+      var load_js_async = function(url) {
+        var script_tag = document.createElement('script');
+        script_tag.type = "text/javascript";
+        script_tag.async = true;
+        script_tag.src = url;
+        document.getElementsByTagName("script")[0].parentNode.appendChild(script_tag);
+      };
+      load_js_async("https://public.slidesharecdn.com/javascripts/rum_new/combined_base.js?826af57281");
+    })();
+  // ]]>
+  </script>
+  <!-- RUM javascript ends -->
+ </head>
+ <body class="logged-in locale-en" id="pagekey-slideshare_desktop_other">
+  <!-- TOS update banner -->
+  <div class="j-tos-update-banner tos-update-banner" style="display: none;">
+   <button class="j-tos-close tos-close fa fa-times-circle">
+   </button>
+   <div class="text-div">
+    <p class="j-mobile-text mobile-text" style="display: none;">
+     Slideshare uses cookies to improve functionality and performance, and to provide you with relevant advertising. If you continue browsing the site, you agree to the use of cookies on this website. See our
+     <a href="http://www.linkedin.com/legal/user-agreement" target="_blank">
+      User Agreement
+     </a>
+     and
+     <a href="http://www.linkedin.com/legal/privacy-policy" target="_blank">
+      Privacy Policy
+     </a>
+     .
+    </p>
+    <p class="j-desktop-text desktop-text" style="display: none;">
+     Slideshare uses cookies to improve functionality and performance, and to provide you with relevant advertising. If you continue browsing the site, you agree to the use of cookies on this website. See our
+     <a href="http://www.linkedin.com/legal/privacy-policy" target="_blank">
+      Privacy Policy
+     </a>
+     and
+     <a href="http://www.linkedin.com/legal/user-agreement" target="_blank">
+      User Agreement
+     </a>
+     for details.
+    </p>
+   </div>
+  </div>
+  <div class="contain-to-grid fixed" id="main-nav">
+   <div class="icon-bar four-up hide-for-medium-up icon-bar-custom">
+    <a aria-labelledby="#home" class="item" href="/">
+     <i class="icon-slideshare-logo">
+     </i>
+     <label id="home">
+      SlideShare
+     </label>
+    </a>
+    <a aria-labelledby="#explore" class="item" href="/explore">
+     <i class="fa fa-compass">
+     </i>
+     <label id="explore">
+      Explore
+     </label>
+    </a>
+    <a aria-labelledby="#search" class="item j-open-mobile-search">
+     <i class="fa fa-search">
+     </i>
+     <label id="search">
+      Search
+     </label>
+    </a>
+    <a aria-labelledby="#you" class="has-dropdown" data-dropdown="small-user-dropdown">
+     <i class="fa fa-user">
+     </i>
+     <label id="you">
+      You
+     </label>
+    </a>
+   </div>
+   <ul class="dropdown f-dropdown f-dropdown-right" id="small-user-dropdown">
+    <li>
+     <a href="/YueshuangLeng">
+      YueshuangLeng
+     </a>
+    </li>
+    <li class="divider">
+    </li>
+    <span class="mobile-nav-my-clipboards">
+     <li>
+      <a href="/YueshuangLeng/clipboards">
+       My Clipboards
+      </a>
+     </li>
+     <li class="divider">
+     </li>
+    </span>
+    <li>
+     <a href="https://www.slideshare.net/logout">
+      Logout
+     </a>
+    </li>
+   </ul>
+   <nav class="top-bar visible-for-medium-up" data-topbar="">
+    <ul class="title-area">
+     <li class="name">
+      <a href="/">
+       <img alt="LinkedIn SlideShare" id="main-navbar-logo" src="https://public.slidesharecdn.com/images/logo/linkedin-ss/SS_Logo_White_Large.png?6d1f7a78a6"/>
+      </a>
+     </li>
+    </ul>
+    <section class="top-bar-section">
+     <ul class="right upload-create button-group">
+      <li class="has-form upload-create">
+       <a class="button radius secondary" href="/upload">
+        Upload
+       </a>
+      </li>
+      <li class="has-dropdown">
+       <a class="user-image" href="/YueshuangLeng">
+        <i aria-hidden="true" class="fa fa-user">
+        </i>
+        <span class="visually-hidden">
+         YueshuangLeng
+        </span>
+       </a>
+       <ul class="dropdown f-dropdown f-dropdown-right" id="user-dropdown">
+        <li>
+         <a href="/YueshuangLeng">
+          YueshuangLeng
+         </a>
+        </li>
+        <li class="divider">
+        </li>
+        <li class="nav-my-clipboards notranslate" id="nav-my-clipboards">
+         <a href="/YueshuangLeng/clipboards">
+          My Clipboards
+         </a>
+        </li>
+        <li class="divider">
+        </li>
+        <li>
+         <a href="/YueshuangLeng/edit_my_uploads">
+          My Uploads
+         </a>
+        </li>
+        <li class="divider">
+        </li>
+        <li>
+         <a href="/YueshuangLeng/my_comments">
+          My Comments
+         </a>
+        </li>
+        <li class="divider">
+        </li>
+        <li>
+         <a href="/insight">
+          Analytics
+         </a>
+        </li>
+        <li class="divider">
+        </li>
+        <li>
+         <a href="/YueshuangLeng/update_email_preferences">
+          Account Settings
+         </a>
+        </li>
+        <li class="divider">
+        </li>
+        <li>
+         <a href="https://www.linkedin.com/help/slideshare">
+          Support
+         </a>
+        </li>
+        <li class="divider">
+        </li>
+        <li>
+         <a href="https://www.slideshare.net/logout">
+          Logout
+         </a>
+        </li>
+       </ul>
+      </li>
+     </ul>
+     <ul class="left">
+      <li class="divider">
+      </li>
+      <li class="has-form" id="nav-search">
+       <form action="/search/slideshow" id="nav-search-form" method="get">
+        <div class="input-box">
+         <input name="searchfrom" type="hidden" value="header"/>
+         <input aria-label="Search" autocomplete="off" id="nav-search-query" name="q" placeholder="Search" type="text" value=""/>
+         <button class="button expand" type="submit">
+          <i aria-hidden="true" class="fa fa-search">
+          </i>
+          <span class="visually-hidden">
+           Submit Search
+          </span>
+         </button>
+         <ul class="search-suggestions dropdown f-dropdown medium" style="display:none;">
+         </ul>
+        </div>
+       </form>
+      </li>
+     </ul>
+    </section>
+   </nav>
+   <div class="visible-for-medium-up sub-navbar">
+    <div class="row">
+     <div class="container">
+      <ul class="sub-nav-cats left">
+       <li class="sub-nav-cat">
+        <strong>
+         <a class="sub-nav-link" data-ga-action="click" data-ga-cat="sub_nav_cat" data-ga-label="Home" href="/" rel="nofollow">
+          Home
+         </a>
+        </strong>
+       </li>
+       <li class="sub-nav-cat">
+        <strong>
+         <a class="sub-nav-link" data-ga-action="click" data-ga-cat="sub_nav_cat" data-ga-label="Explore" href="/explore" rel="nofollow">
+          Explore
+         </a>
+        </strong>
+       </li>
+      </ul>
+      <ul class="sub-nav-cats right show-for-large-up sub-nav-link-ctas">
+       <li class="sub-nav-cat">
+        <strong>
+         <a class="sub-nav-link" data-ga-action="click" data-ga-cat="sub_nav_cat" data-ga-label="Presentation Courses" href="https://www.linkedin.com/learning/topics/presentations?trk=slideshare_subnav_learning&amp;entityType=COURSE&amp;sortBy=RECENCY" title="Learn and improve presentation skills with expert-led courses and videos">
+          Presentation Courses
+         </a>
+        </strong>
+       </li>
+       <li class="sub-nav-cat">
+        <strong>
+         <a class="sub-nav-link" data-ga-action="click" data-ga-cat="sub_nav_cat" data-ga-label="PowerPoint Courses" href="https://www.linkedin.com/learning/topics/powerpoint?trk=slideshare_subnav_learning&amp;entityType=COURSE&amp;sortBy=RECENCY" title="Learn PowerPoint online with expert-taught courses, videos, tutorials">
+          PowerPoint Courses
+         </a>
+        </strong>
+       </li>
+       <li class="sub-nav-cat-divider">
+       </li>
+       <li class="sub-nav-cat sub-nav-lil">
+        by
+        <a class="sub-nav-link lil-link" data-ga-action="click" data-ga-cat="sub_nav_cat" data-ga-label="by LinkedIn Learning" href="https://www.linkedin.com/learning?trk=slideshare_subnav_learning" title="Online Courses to Learn Business, Technology &amp; Creative Skills">
+         LinkedIn Learning
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div class="wrapper">
+   <div id="main-nav-mobile-search">
+    <form action="/search/slideshow" method="get" name="mobile-search">
+     <div class="input-box">
+      <input autocomplete="off" name="q" placeholder="Search" type="text" value=""/>
+      <a class="button expand">
+       <i class="search-icon fa fa-search">
+       </i>
+       <i class="search-spinner fa fa-spinner fa-spin">
+       </i>
+      </a>
+     </div>
+    </form>
+   </div>
+   <div class="j-sso-banner-wrapper sso-banner-wrapper hide">
+    <div class="row">
+     <div class="j-sso-banner sso-banner">
+      <div class="sso-banner-info-icon fa fa-info-circle">
+      </div>
+      <div class="j-sso-banner-close sso-banner-close fa fa-times">
+      </div>
+      <div class="sso-banner-text">
+       Connect to more opportunity! We’ve connected your lengyueshuang.luna@outlook.com account with LinkedIn.
+       <a class="sso-banner-help-link" href="https://help.linkedin.com/app/answers/global/id/62999" target="_blank">
+        Learn more or choose a different SlideShare account.
+       </a>
+      </div>
+     </div>
+    </div>
+   </div>
+   <section class="ss-hero has-background-img" id="topics-hero">
+    <div class="row">
+     <div class="columns small-centered">
+      <table class="h-table h-table-50-line">
+       <tr>
+        <td class="h-line">
+         <div>
+         </div>
+        </td>
+        <td class="h-content">
+         <h1 class="antialiased">
+          Explore
+         </h1>
+        </td>
+        <td class="h-line">
+         <div>
+         </div>
+        </td>
+       </tr>
+      </table>
+     </div>
+    </div>
+    <div class="row">
+     <div class="columns small-centered">
+      <h4 class="antialiased">
+       Check out the latest on all your favorite topics
+      </h4>
+     </div>
+    </div>
+   </section>
+   <!-- /#topics-hero -->
+   <section class="ss-content" id="topics-content">
+    <div class="row">
+     <div class="columns">
+      <ul class="small-block-grid-2 medium-block-grid-4 large-block-grid-5">
+       <!-- Popular -->
+       <li class="ss-thumbnail ss-topic-thumbnail">
+        <div class="thumbnail-content">
+         <a class="link-img" data-ga-action="topic_thumbnail" data-ga-cat="topics" data-ga-label="topic_link_img_popular_click" href="/popular">
+          <img alt="" src="https://public.slidesharecdn.com/images/categories/1x/popular.png" title=""/>
+         </a>
+         <div class="details">
+          <a class="title title-link ellipsis antialiased" data-ga-action="topic_thumbnail" data-ga-cat="topics" data-ga-label="topic_link_popular_click" href="/popular">
+           Most Popular
+          </a>
+         </div>
+        </div>
+       </li>
+       <!-- Featured -->
+       <li class="ss-thumbnail ss-topic-thumbnail">
+        <div class="thumbnail-content">
+         <a class="link-img" data-ga-action="topic_thumbnail" data-ga-cat="topics" data-ga-label="topic_link_img_featured_click" href="/featured">
+          <img alt="" src="https://public.slidesharecdn.com/images/categories/1x/featured.png" title=""/>
+         </a>
+         <div class="details">
+          <a class="title title-link ellipsis antialiased" data-ga-action="topic_thumbnail" data-ga-cat="topics" data-ga-label="topic_link_featured_click" href="/featured">
+           Editor’s Picks
+          </a>
+         </div>
+        </div>
+       </li>
+       <!-- Categories -->
+       <li class="ss-thumbnail ss-topic-thumbnail">
+        <div class="thumbnail-content">
+         <button class="action-follow j-action-follow" data-category="art-photos">
+          <i aria-hidden="true" class="fa fa-plus">
+          </i>
+          <span class="visually-hidden text-follow">
+           Follow Art &amp; Photos category.
+          </span>
+          <span class="visually-hidden text-unfollow">
+           Unfollow Art &amp; Photos category.
+          </span>
+         </button>
+         <a class="link-img" data-ga-action="topic_thumbnail" data-ga-cat="topics" data-ga-label="topic_link_img_click_art-photos" href="/featured/category/art-photos">
+          <img alt="art-photos" class="j-lazy-thumb" data-original="https://public.slidesharecdn.com/images/categories/1x/art-photos.png" src="https://public.slidesharecdn.com/images/categories/category_placeholder.png" title="art-photos"/>
+         </a>
+         <div class="details">
+          <a class="title title-link ellipsis antialiased" data-ga-action="topic_thumbnail" data-ga-cat="topics" data-ga-label="topic_link_click_art-photos" href="/featured/category/art-photos">
+           Art &amp; Photos
+          </a>
+         </div>
+        </div>
+       </li>
+       <li class="ss-thumbnail ss-topic-thumbnail">
+        <div class="thumbnail-content">
+         <button class="action-follow j-action-follow" data-category="automotive">
+          <i aria-hidden="true" class="fa fa-plus">
+          </i>
+          <span class="visually-hidden text-follow">
+           Follow Automotive category.
+          </span>
+          <span class="visually-hidden text-unfollow">
+           Unfollow Automotive category.
+          </span>
+         </button>
+         <a class="link-img" data-ga-action="topic_thumbnail" data-ga-cat="topics" data-ga-label="topic_link_img_click_automotive" href="/featured/category/automotive">
+          <img alt="automotive" class="j-lazy-thumb" data-original="https://public.slidesharecdn.com/images/categories/1x/automotive.png" src="https://public.slidesharecdn.com/images/categories/category_placeholder.png" title="automotive"/>
+         </a>
+         <div class="details">
+          <a class="title title-link ellipsis antialiased" data-ga-action="topic_thumbnail" data-ga-cat="topics" data-ga-label="topic_link_click_automotive" href="/featured/category/automotive">
+           Automotive
+          </a>
+         </div>
+        </div>
+       </li>
+       <li class="ss-thumbnail ss-topic-thumbnail">
+        <div class="thumbnail-content">
+         <button class="action-follow j-action-follow" data-category="business">
+          <i aria-hidden="true" class="fa fa-plus">
+          </i>
+          <span class="visually-hidden text-follow">
+           Follow Business category.
+          </span>
+          <span class="visually-hidden text-unfollow">
+           Unfollow Business category.
+          </span>
+         </button>
+         <a class="link-img" data-ga-action="topic_thumbnail" data-ga-cat="topics" data-ga-label="topic_link_img_click_business" href="/featured/category/business">
+          <img alt="business" class="j-lazy-thumb" data-original="https://public.slidesharecdn.com/images/categories/1x/business.png" src="https://public.slidesharecdn.com/images/categories/category_placeholder.png" title="business"/>
+         </a>
+         <div class="details">
+          <a class="title title-link ellipsis antialiased" data-ga-action="topic_thumbnail" data-ga-cat="topics" data-ga-label="topic_link_click_business" href="/featured/category/business">
+           Business
+          </a>
+         </div>
+        </div>
+       </li>
+       <li class="ss-thumbnail ss-topic-thumbnail">
+        <div class="thumbnail-content">
+         <button class="action-follow j-action-follow" data-category="career">
+          <i aria-hidden="true" class="fa fa-plus">
+          </i>
+          <span class="visually-hidden text-follow">
+           Follow Career category.
+          </span>
+          <span class="visually-hidden text-unfollow">
+           Unfollow Career category.
+          </span>
+         </button>
+         <a class="link-img" data-ga-action="topic_thumbnail" data-ga-cat="topics" data-ga-label="topic_link_img_click_career" href="/featured/category/career">
+          <img alt="career" class="j-lazy-thumb" data-original="https://public.slidesharecdn.com/images/categories/1x/career.png" src="https://public.slidesharecdn.com/images/categories/category_placeholder.png" title="career"/>
+         </a>
+         <div class="details">
+          <a class="title title-link ellipsis antialiased" data-ga-action="topic_thumbnail" data-ga-cat="topics" data-ga-label="topic_link_click_career" href="/featured/category/career">
+           Career
+          </a>
+         </div>
+        </div>
+       </li>
+       <li class="ss-thumbnail ss-topic-thumbnail">
+        <div class="thumbnail-content">
+         <button class="action-follow j-action-follow" data-category="data-analytics">
+          <i aria-hidden="true" class="fa fa-plus">
+          </i>
+          <span class="visually-hidden text-follow">
+           Follow Data &amp; Analytics category.
+          </span>
+          <span class="visually-hidden text-unfollow">
+           Unfollow Data &amp; Analytics category.
+          </span>
+         </button>
+         <a class="link-img" data-ga-action="topic_thumbnail" data-ga-cat="topics" data-ga-label="topic_link_img_click_data-analytics" href="/featured/category/data-analytics">
+          <img alt="data-analytics" class="j-lazy-thumb" data-original="https://public.slidesharecdn.com/images/categories/1x/data-analytics.png" src="https://public.slidesharecdn.com/images/categories/category_placeholder.png" title="data-analytics"/>
+         </a>
+         <div class="details">
+          <a class="title title-link ellipsis antialiased" data-ga-action="topic_thumbnail" data-ga-cat="topics" data-ga-label="topic_link_click_data-analytics" href="/featured/category/data-analytics">
+           Data &amp; Analytics
+          </a>
+         </div>
+        </div>
+       </li>
+       <li class="ss-thumbnail ss-topic-thumbnail">
+        <div class="thumbnail-content">
+         <button class="action-follow j-action-follow" data-category="design">
+          <i aria-hidden="true" class="fa fa-plus">
+          </i>
+          <span class="visually-hidden text-follow">
+           Follow Design category.
+          </span>
+          <span class="visually-hidden text-unfollow">
+           Unfollow Design category.
+          </span>
+         </button>
+         <a class="link-img" data-ga-action="topic_thumbnail" data-ga-cat="topics" data-ga-label="topic_link_img_click_design" href="/featured/category/design">
+          <img alt="design" class="j-lazy-thumb" data-original="https://public.slidesharecdn.com/images/categories/1x/design.png" src="https://public.slidesharecdn.com/images/categories/category_placeholder.png" title="design"/>
+         </a>
+         <div class="details">
+          <a class="title title-link ellipsis antialiased" data-ga-action="topic_thumbnail" data-ga-cat="topics" data-ga-label="topic_link_click_design" href="/featured/category/design">
+           Design
+          </a>
+         </div>
+        </div>
+       </li>
+       <li class="ss-thumbnail ss-topic-thumbnail">
+        <div class="thumbnail-content">
+         <button class="action-follow j-action-follow" data-category="devices-hardware">
+          <i aria-hidden="true" class="fa fa-plus">
+          </i>
+          <span class="visually-hidden text-follow">
+           Follow Devices &amp; Hardware category.
+          </span>
+          <span class="visually-hidden text-unfollow">
+           Unfollow Devices &amp; Hardware category.
+          </span>
+         </button>
+         <a class="link-img" data-ga-action="topic_thumbnail" data-ga-cat="topics" data-ga-label="topic_link_img_click_devices-hardware" href="/featured/category/devices-hardware">
+          <img alt="devices-hardware" class="j-lazy-thumb" data-original="https://public.slidesharecdn.com/images/categories/1x/devices-hardware.png" src="https://public.slidesharecdn.com/images/categories/category_placeholder.png" title="devices-hardware"/>
+         </a>
+         <div class="details">
+          <a class="title title-link ellipsis antialiased" data-ga-action="topic_thumbnail" data-ga-cat="topics" data-ga-label="topic_link_click_devices-hardware" href="/featured/category/devices-hardware">
+           Devices &amp; Hardware
+          </a>
+         </div>
+        </div>
+       </li>
+       <li class="ss-thumbnail ss-topic-thumbnail">
+        <div class="thumbnail-content">
+         <button class="action-follow j-action-follow" data-category="economy-finance">
+          <i aria-hidden="true" class="fa fa-plus">
+          </i>
+          <span class="visually-hidden text-follow">
+           Follow Economy &amp; Finance category.
+          </span>
+          <span class="visually-hidden text-unfollow">
+           Unfollow Economy &amp; Finance category.
+          </span>
+         </button>
+         <a class="link-img" data-ga-action="topic_thumbnail" data-ga-cat="topics" data-ga-label="topic_link_img_click_economy-finance" href="/featured/category/economy-finance">
+          <img alt="economy-finance" class="j-lazy-thumb" data-original="https://public.slidesharecdn.com/images/categories/1x/economy-finance.png" src="https://public.slidesharecdn.com/images/categories/category_placeholder.png" title="economy-finance"/>
+         </a>
+         <div class="details">
+          <a class="title title-link ellipsis antialiased" data-ga-action="topic_thumbnail" data-ga-cat="topics" data-ga-label="topic_link_click_economy-finance" href="/featured/category/economy-finance">
+           Economy &amp; Finance
+          </a>
+         </div>
+        </div>
+       </li>
+       <li class="ss-thumbnail ss-topic-thumbnail">
+        <div class="thumbnail-content">
+         <button class="action-follow j-action-follow" data-category="education">
+          <i aria-hidden="true" class="fa fa-plus">
+          </i>
+          <span class="visually-hidden text-follow">
+           Follow Education category.
+          </span>
+          <span class="visually-hidden text-unfollow">
+           Unfollow Education category.
+          </span>
+         </button>
+         <a class="link-img" data-ga-action="topic_thumbnail" data-ga-cat="topics" data-ga-label="topic_link_img_click_education" href="/featured/category/education">
+          <img alt="education" class="j-lazy-thumb" data-original="https://public.slidesharecdn.com/images/categories/1x/education.png" src="https://public.slidesharecdn.com/images/categories/category_placeholder.png" title="education"/>
+         </a>
+         <div class="details">
+          <a class="title title-link ellipsis antialiased" data-ga-action="topic_thumbnail" data-ga-cat="topics" data-ga-label="topic_link_click_education" href="/featured/category/education">
+           Education
+          </a>
+         </div>
+        </div>
+       </li>
+       <li class="ss-thumbnail ss-topic-thumbnail">
+        <div class="thumbnail-content">
+         <button class="action-follow j-action-follow" data-category="engineering">
+          <i aria-hidden="true" class="fa fa-plus">
+          </i>
+          <span class="visually-hidden text-follow">
+           Follow Engineering category.
+          </span>
+          <span class="visually-hidden text-unfollow">
+           Unfollow Engineering category.
+          </span>
+         </button>
+         <a class="link-img" data-ga-action="topic_thumbnail" data-ga-cat="topics" data-ga-label="topic_link_img_click_engineering" href="/featured/category/engineering">
+          <img alt="engineering" class="j-lazy-thumb" data-original="https://public.slidesharecdn.com/images/categories/1x/engineering.png" src="https://public.slidesharecdn.com/images/categories/category_placeholder.png" title="engineering"/>
+         </a>
+         <div class="details">
+          <a class="title title-link ellipsis antialiased" data-ga-action="topic_thumbnail" data-ga-cat="topics" data-ga-label="topic_link_click_engineering" href="/featured/category/engineering">
+           Engineering
+          </a>
+         </div>
+        </div>
+       </li>
+       <li class="ss-thumbnail ss-topic-thumbnail">
+        <div class="thumbnail-content">
+         <button class="action-follow j-action-follow" data-category="entertainment-humor">
+          <i aria-hidden="true" class="fa fa-plus">
+          </i>
+          <span class="visually-hidden text-follow">
+           Follow Entertainment &amp; Humor category.
+          </span>
+          <span class="visually-hidden text-unfollow">
+           Unfollow Entertainment &amp; Humor category.
+          </span>
+         </button>
+         <a class="link-img" data-ga-action="topic_thumbnail" data-ga-cat="topics" data-ga-label="topic_link_img_click_entertainment-humor" href="/featured/category/entertainment-humor">
+          <img alt="entertainment-humor" class="j-lazy-thumb" data-original="https://public.slidesharecdn.com/images/categories/1x/entertainment-humor.png" src="https://public.slidesharecdn.com/images/categories/category_placeholder.png" title="entertainment-humor"/>
+         </a>
+         <div class="details">
+          <a class="title title-link ellipsis antialiased" data-ga-action="topic_thumbnail" data-ga-cat="topics" data-ga-label="topic_link_click_entertainment-humor" href="/featured/category/entertainment-humor">
+           Entertainment &amp; Humor
+          </a>
+         </div>
+        </div>
+       </li>
+       <li class="ss-thumbnail ss-topic-thumbnail">
+        <div class="thumbnail-content">
+         <button class="action-follow j-action-follow" data-category="environment">
+          <i aria-hidden="true" class="fa fa-plus">
+          </i>
+          <span class="visually-hidden text-follow">
+           Follow Environment category.
+          </span>
+          <span class="visually-hidden text-unfollow">
+           Unfollow Environment category.
+          </span>
+         </button>
+         <a class="link-img" data-ga-action="topic_thumbnail" data-ga-cat="topics" data-ga-label="topic_link_img_click_environment" href="/featured/category/environment">
+          <img alt="environment" class="j-lazy-thumb" data-original="https://public.slidesharecdn.com/images/categories/1x/environment.png" src="https://public.slidesharecdn.com/images/categories/category_placeholder.png" title="environment"/>
+         </a>
+         <div class="details">
+          <a class="title title-link ellipsis antialiased" data-ga-action="topic_thumbnail" data-ga-cat="topics" data-ga-label="topic_link_click_environment" href="/featured/category/environment">
+           Environment
+          </a>
+         </div>
+        </div>
+       </li>
+       <li class="ss-thumbnail ss-topic-thumbnail">
+        <div class="thumbnail-content">
+         <button class="action-follow j-action-follow" data-category="food">
+          <i aria-hidden="true" class="fa fa-plus">
+          </i>
+          <span class="visually-hidden text-follow">
+           Follow Food category.
+          </span>
+          <span class="visually-hidden text-unfollow">
+           Unfollow Food category.
+          </span>
+         </button>
+         <a class="link-img" data-ga-action="topic_thumbnail" data-ga-cat="topics" data-ga-label="topic_link_img_click_food" href="/featured/category/food">
+          <img alt="food" class="j-lazy-thumb" data-original="https://public.slidesharecdn.com/images/categories/1x/food.png" src="https://public.slidesharecdn.com/images/categories/category_placeholder.png" title="food"/>
+         </a>
+         <div class="details">
+          <a class="title title-link ellipsis antialiased" data-ga-action="topic_thumbnail" data-ga-cat="topics" data-ga-label="topic_link_click_food" href="/featured/category/food">
+           Food
+          </a>
+         </div>
+        </div>
+       </li>
+       <li class="ss-thumbnail ss-topic-thumbnail">
+        <div class="thumbnail-content">
+         <button class="action-follow j-action-follow" data-category="government-nonprofit">
+          <i aria-hidden="true" class="fa fa-plus">
+          </i>
+          <span class="visually-hidden text-follow">
+           Follow Government &amp; Nonprofit category.
+          </span>
+          <span class="visually-hidden text-unfollow">
+           Unfollow Government &amp; Nonprofit category.
+          </span>
+         </button>
+         <a class="link-img" data-ga-action="topic_thumbnail" data-ga-cat="topics" data-ga-label="topic_link_img_click_government-nonprofit" href="/featured/category/government-nonprofit">
+          <img alt="government-nonprofit" class="j-lazy-thumb" data-original="https://public.slidesharecdn.com/images/categories/1x/government-nonprofit.png" src="https://public.slidesharecdn.com/images/categories/category_placeholder.png" title="government-nonprofit"/>
+         </a>
+         <div class="details">
+          <a class="title title-link ellipsis antialiased" data-ga-action="topic_thumbnail" data-ga-cat="topics" data-ga-label="topic_link_click_government-nonprofit" href="/featured/category/government-nonprofit">
+           Government &amp; Nonprofit
+          </a>
+         </div>
+        </div>
+       </li>
+       <li class="ss-thumbnail ss-topic-thumbnail">
+        <div class="thumbnail-content">
+         <button class="action-follow j-action-follow" data-category="health-medicine">
+          <i aria-hidden="true" class="fa fa-plus">
+          </i>
+          <span class="visually-hidden text-follow">
+           Follow Health &amp; Medicine category.
+          </span>
+          <span class="visually-hidden text-unfollow">
+           Unfollow Health &amp; Medicine category.
+          </span>
+         </button>
+         <a class="link-img" data-ga-action="topic_thumbnail" data-ga-cat="topics" data-ga-label="topic_link_img_click_health-medicine" href="/featured/category/health-medicine">
+          <img alt="health-medicine" class="j-lazy-thumb" data-original="https://public.slidesharecdn.com/images/categories/1x/health-medicine.png" src="https://public.slidesharecdn.com/images/categories/category_placeholder.png" title="health-medicine"/>
+         </a>
+         <div class="details">
+          <a class="title title-link ellipsis antialiased" data-ga-action="topic_thumbnail" data-ga-cat="topics" data-ga-label="topic_link_click_health-medicine" href="/featured/category/health-medicine">
+           Health &amp; Medicine
+          </a>
+         </div>
+        </div>
+       </li>
+       <li class="ss-thumbnail ss-topic-thumbnail">
+        <div class="thumbnail-content">
+         <button class="action-follow j-action-follow" data-category="healthcare">
+          <i aria-hidden="true" class="fa fa-plus">
+          </i>
+          <span class="visually-hidden text-follow">
+           Follow Healthcare category.
+          </span>
+          <span class="visually-hidden text-unfollow">
+           Unfollow Healthcare category.
+          </span>
+         </button>
+         <a class="link-img" data-ga-action="topic_thumbnail" data-ga-cat="topics" data-ga-label="topic_link_img_click_healthcare" href="/featured/category/healthcare">
+          <img alt="healthcare" class="j-lazy-thumb" data-original="https://public.slidesharecdn.com/images/categories/1x/healthcare.png" src="https://public.slidesharecdn.com/images/categories/category_placeholder.png" title="healthcare"/>
+         </a>
+         <div class="details">
+          <a class="title title-link ellipsis antialiased" data-ga-action="topic_thumbnail" data-ga-cat="topics" data-ga-label="topic_link_click_healthcare" href="/featured/category/healthcare">
+           Healthcare
+          </a>
+         </div>
+        </div>
+       </li>
+       <li class="ss-thumbnail ss-topic-thumbnail">
+        <div class="thumbnail-content">
+         <button class="action-follow j-action-follow" data-category="internet">
+          <i aria-hidden="true" class="fa fa-plus">
+          </i>
+          <span class="visually-hidden text-follow">
+           Follow Internet category.
+          </span>
+          <span class="visually-hidden text-unfollow">
+           Unfollow Internet category.
+          </span>
+         </button>
+         <a class="link-img" data-ga-action="topic_thumbnail" data-ga-cat="topics" data-ga-label="topic_link_img_click_internet" href="/featured/category/internet">
+          <img alt="internet" class="j-lazy-thumb" data-original="https://public.slidesharecdn.com/images/categories/1x/internet.png" src="https://public.slidesharecdn.com/images/categories/category_placeholder.png" title="internet"/>
+         </a>
+         <div class="details">
+          <a class="title title-link ellipsis antialiased" data-ga-action="topic_thumbnail" data-ga-cat="topics" data-ga-label="topic_link_click_internet" href="/featured/category/internet">
+           Internet
+          </a>
+         </div>
+        </div>
+       </li>
+       <li class="ss-thumbnail ss-topic-thumbnail">
+        <div class="thumbnail-content">
+         <button class="action-follow j-action-follow" data-category="investor-relations">
+          <i aria-hidden="true" class="fa fa-plus">
+          </i>
+          <span class="visually-hidden text-follow">
+           Follow Investor Relations category.
+          </span>
+          <span class="visually-hidden text-unfollow">
+           Unfollow Investor Relations category.
+          </span>
+         </button>
+         <a class="link-img" data-ga-action="topic_thumbnail" data-ga-cat="topics" data-ga-label="topic_link_img_click_investor-relations" href="/featured/category/investor-relations">
+          <img alt="investor-relations" class="j-lazy-thumb" data-original="https://public.slidesharecdn.com/images/categories/1x/investor-relations.png" src="https://public.slidesharecdn.com/images/categories/category_placeholder.png" title="investor-relations"/>
+         </a>
+         <div class="details">
+          <a class="title title-link ellipsis antialiased" data-ga-action="topic_thumbnail" data-ga-cat="topics" data-ga-label="topic_link_click_investor-relations" href="/featured/category/investor-relations">
+           Investor Relations
+          </a>
+         </div>
+        </div>
+       </li>
+       <li class="ss-thumbnail ss-topic-thumbnail">
+        <div class="thumbnail-content">
+         <button class="action-follow j-action-follow" data-category="law">
+          <i aria-hidden="true" class="fa fa-plus">
+          </i>
+          <span class="visually-hidden text-follow">
+           Follow Law category.
+          </span>
+          <span class="visually-hidden text-unfollow">
+           Unfollow Law category.
+          </span>
+         </button>
+         <a class="link-img" data-ga-action="topic_thumbnail" data-ga-cat="topics" data-ga-label="topic_link_img_click_law" href="/featured/category/law">
+          <img alt="law" class="j-lazy-thumb" data-original="https://public.slidesharecdn.com/images/categories/1x/law.png" src="https://public.slidesharecdn.com/images/categories/category_placeholder.png" title="law"/>
+         </a>
+         <div class="details">
+          <a class="title title-link ellipsis antialiased" data-ga-action="topic_thumbnail" data-ga-cat="topics" data-ga-label="topic_link_click_law" href="/featured/category/law">
+           Law
+          </a>
+         </div>
+        </div>
+       </li>
+       <li class="ss-thumbnail ss-topic-thumbnail">
+        <div class="thumbnail-content">
+         <button class="action-follow j-action-follow" data-category="leadership-management">
+          <i aria-hidden="true" class="fa fa-plus">
+          </i>
+          <span class="visually-hidden text-follow">
+           Follow Leadership &amp; Management category.
+          </span>
+          <span class="visually-hidden text-unfollow">
+           Unfollow Leadership &amp; Management category.
+          </span>
+         </button>
+         <a class="link-img" data-ga-action="topic_thumbnail" data-ga-cat="topics" data-ga-label="topic_link_img_click_leadership-management" href="/featured/category/leadership-management">
+          <img alt="leadership-management" class="j-lazy-thumb" data-original="https://public.slidesharecdn.com/images/categories/1x/leadership-management.png" src="https://public.slidesharecdn.com/images/categories/category_placeholder.png" title="leadership-management"/>
+         </a>
+         <div class="details">
+          <a class="title title-link ellipsis antialiased" data-ga-action="topic_thumbnail" data-ga-cat="topics" data-ga-label="topic_link_click_leadership-management" href="/featured/category/leadership-management">
+           Leadership &amp; Management
+          </a>
+         </div>
+        </div>
+       </li>
+       <li class="ss-thumbnail ss-topic-thumbnail">
+        <div class="thumbnail-content">
+         <button class="action-follow j-action-follow" data-category="lifestyle">
+          <i aria-hidden="true" class="fa fa-plus">
+          </i>
+          <span class="visually-hidden text-follow">
+           Follow Lifestyle category.
+          </span>
+          <span class="visually-hidden text-unfollow">
+           Unfollow Lifestyle category.
+          </span>
+         </button>
+         <a class="link-img" data-ga-action="topic_thumbnail" data-ga-cat="topics" data-ga-label="topic_link_img_click_lifestyle" href="/featured/category/lifestyle">
+          <img alt="lifestyle" class="j-lazy-thumb" data-original="https://public.slidesharecdn.com/images/categories/1x/lifestyle.png" src="https://public.slidesharecdn.com/images/categories/category_placeholder.png" title="lifestyle"/>
+         </a>
+         <div class="details">
+          <a class="title title-link ellipsis antialiased" data-ga-action="topic_thumbnail" data-ga-cat="topics" data-ga-label="topic_link_click_lifestyle" href="/featured/category/lifestyle">
+           Lifestyle
+          </a>
+         </div>
+        </div>
+       </li>
+       <li class="ss-thumbnail ss-topic-thumbnail">
+        <div class="thumbnail-content">
+         <button class="action-follow j-action-follow" data-category="Marketing">
+          <i aria-hidden="true" class="fa fa-plus">
+          </i>
+          <span class="visually-hidden text-follow">
+           Follow Marketing category.
+          </span>
+          <span class="visually-hidden text-unfollow">
+           Unfollow Marketing category.
+          </span>
+         </button>
+         <a class="link-img" data-ga-action="topic_thumbnail" data-ga-cat="topics" data-ga-label="topic_link_img_click_Marketing" href="/featured/category/Marketing">
+          <img alt="Marketing" class="j-lazy-thumb" data-original="https://public.slidesharecdn.com/images/categories/1x/marketing.png" src="https://public.slidesharecdn.com/images/categories/category_placeholder.png" title="Marketing"/>
+         </a>
+         <div class="details">
+          <a class="title title-link ellipsis antialiased" data-ga-action="topic_thumbnail" data-ga-cat="topics" data-ga-label="topic_link_click_Marketing" href="/featured/category/Marketing">
+           Marketing
+          </a>
+         </div>
+        </div>
+       </li>
+       <li class="ss-thumbnail ss-topic-thumbnail">
+        <div class="thumbnail-content">
+         <button class="action-follow j-action-follow" data-category="mobile">
+          <i aria-hidden="true" class="fa fa-plus">
+          </i>
+          <span class="visually-hidden text-follow">
+           Follow Mobile category.
+          </span>
+          <span class="visually-hidden text-unfollow">
+           Unfollow Mobile category.
+          </span>
+         </button>
+         <a class="link-img" data-ga-action="topic_thumbnail" data-ga-cat="topics" data-ga-label="topic_link_img_click_mobile" href="/featured/category/mobile">
+          <img alt="mobile" class="j-lazy-thumb" data-original="https://public.slidesharecdn.com/images/categories/1x/mobile.png" src="https://public.slidesharecdn.com/images/categories/category_placeholder.png" title="mobile"/>
+         </a>
+         <div class="details">
+          <a class="title title-link ellipsis antialiased" data-ga-action="topic_thumbnail" data-ga-cat="topics" data-ga-label="topic_link_click_mobile" href="/featured/category/mobile">
+           Mobile
+          </a>
+         </div>
+        </div>
+       </li>
+       <li class="ss-thumbnail ss-topic-thumbnail">
+        <div class="thumbnail-content">
+         <button class="action-follow j-action-follow" data-category="news-politics">
+          <i aria-hidden="true" class="fa fa-plus">
+          </i>
+          <span class="visually-hidden text-follow">
+           Follow News &amp; Politics category.
+          </span>
+          <span class="visually-hidden text-unfollow">
+           Unfollow News &amp; Politics category.
+          </span>
+         </button>
+         <a class="link-img" data-ga-action="topic_thumbnail" data-ga-cat="topics" data-ga-label="topic_link_img_click_news-politics" href="/featured/category/news-politics">
+          <img alt="news-politics" class="j-lazy-thumb" data-original="https://public.slidesharecdn.com/images/categories/1x/news-politics.png" src="https://public.slidesharecdn.com/images/categories/category_placeholder.png" title="news-politics"/>
+         </a>
+         <div class="details">
+          <a class="title title-link ellipsis antialiased" data-ga-action="topic_thumbnail" data-ga-cat="topics" data-ga-label="topic_link_click_news-politics" href="/featured/category/news-politics">
+           News &amp; Politics
+          </a>
+         </div>
+        </div>
+       </li>
+       <li class="ss-thumbnail ss-topic-thumbnail">
+        <div class="thumbnail-content">
+         <button class="action-follow j-action-follow" data-category="presentations-public-speaking">
+          <i aria-hidden="true" class="fa fa-plus">
+          </i>
+          <span class="visually-hidden text-follow">
+           Follow Presentations &amp; Public Speaking category.
+          </span>
+          <span class="visually-hidden text-unfollow">
+           Unfollow Presentations &amp; Public Speaking category.
+          </span>
+         </button>
+         <a class="link-img" data-ga-action="topic_thumbnail" data-ga-cat="topics" data-ga-label="topic_link_img_click_presentations-public-speaking" href="/featured/category/presentations-public-speaking">
+          <img alt="presentations-public-speaking" class="j-lazy-thumb" data-original="https://public.slidesharecdn.com/images/categories/1x/presentations-public-speaking.png" src="https://public.slidesharecdn.com/images/categories/category_placeholder.png" title="presentations-public-speaking"/>
+         </a>
+         <div class="details">
+          <a class="title title-link ellipsis antialiased" data-ga-action="topic_thumbnail" data-ga-cat="topics" data-ga-label="topic_link_click_presentations-public-speaking" href="/featured/category/presentations-public-speaking">
+           Presentations &amp; Public Speaking
+          </a>
+         </div>
+        </div>
+       </li>
+       <li class="ss-thumbnail ss-topic-thumbnail">
+        <div class="thumbnail-content">
+         <button class="action-follow j-action-follow" data-category="real-estate">
+          <i aria-hidden="true" class="fa fa-plus">
+          </i>
+          <span class="visually-hidden text-follow">
+           Follow Real Estate category.
+          </span>
+          <span class="visually-hidden text-unfollow">
+           Unfollow Real Estate category.
+          </span>
+         </button>
+         <a class="link-img" data-ga-action="topic_thumbnail" data-ga-cat="topics" data-ga-label="topic_link_img_click_real-estate" href="/featured/category/real-estate">
+          <img alt="real-estate" class="j-lazy-thumb" data-original="https://public.slidesharecdn.com/images/categories/1x/real-estate.png" src="https://public.slidesharecdn.com/images/categories/category_placeholder.png" title="real-estate"/>
+         </a>
+         <div class="details">
+          <a class="title title-link ellipsis antialiased" data-ga-action="topic_thumbnail" data-ga-cat="topics" data-ga-label="topic_link_click_real-estate" href="/featured/category/real-estate">
+           Real Estate
+          </a>
+         </div>
+        </div>
+       </li>
+       <li class="ss-thumbnail ss-topic-thumbnail">
+        <div class="thumbnail-content">
+         <button class="action-follow j-action-follow" data-category="recruiting-hr">
+          <i aria-hidden="true" class="fa fa-plus">
+          </i>
+          <span class="visually-hidden text-follow">
+           Follow Recruiting &amp; HR category.
+          </span>
+          <span class="visually-hidden text-unfollow">
+           Unfollow Recruiting &amp; HR category.
+          </span>
+         </button>
+         <a class="link-img" data-ga-action="topic_thumbnail" data-ga-cat="topics" data-ga-label="topic_link_img_click_recruiting-hr" href="/featured/category/recruiting-hr">
+          <img alt="recruiting-hr" class="j-lazy-thumb" data-original="https://public.slidesharecdn.com/images/categories/1x/recruiting-hr.png" src="https://public.slidesharecdn.com/images/categories/category_placeholder.png" title="recruiting-hr"/>
+         </a>
+         <div class="details">
+          <a class="title title-link ellipsis antialiased" data-ga-action="topic_thumbnail" data-ga-cat="topics" data-ga-label="topic_link_click_recruiting-hr" href="/featured/category/recruiting-hr">
+           Recruiting &amp; HR
+          </a>
+         </div>
+        </div>
+       </li>
+       <li class="ss-thumbnail ss-topic-thumbnail">
+        <div class="thumbnail-content">
+         <button class="action-follow j-action-follow" data-category="retail">
+          <i aria-hidden="true" class="fa fa-plus">
+          </i>
+          <span class="visually-hidden text-follow">
+           Follow Retail category.
+          </span>
+          <span class="visually-hidden text-unfollow">
+           Unfollow Retail category.
+          </span>
+         </button>
+         <a class="link-img" data-ga-action="topic_thumbnail" data-ga-cat="topics" data-ga-label="topic_link_img_click_retail" href="/featured/category/retail">
+          <img alt="retail" class="j-lazy-thumb" data-original="https://public.slidesharecdn.com/images/categories/1x/retail.png" src="https://public.slidesharecdn.com/images/categories/category_placeholder.png" title="retail"/>
+         </a>
+         <div class="details">
+          <a class="title title-link ellipsis antialiased" data-ga-action="topic_thumbnail" data-ga-cat="topics" data-ga-label="topic_link_click_retail" href="/featured/category/retail">
+           Retail
+          </a>
+         </div>
+        </div>
+       </li>
+       <li class="ss-thumbnail ss-topic-thumbnail">
+        <div class="thumbnail-content">
+         <button class="action-follow j-action-follow" data-category="sales">
+          <i aria-hidden="true" class="fa fa-plus">
+          </i>
+          <span class="visually-hidden text-follow">
+           Follow Sales category.
+          </span>
+          <span class="visually-hidden text-unfollow">
+           Unfollow Sales category.
+          </span>
+         </button>
+         <a class="link-img" data-ga-action="topic_thumbnail" data-ga-cat="topics" data-ga-label="topic_link_img_click_sales" href="/featured/category/sales">
+          <img alt="sales" class="j-lazy-thumb" data-original="https://public.slidesharecdn.com/images/categories/1x/sales.png" src="https://public.slidesharecdn.com/images/categories/category_placeholder.png" title="sales"/>
+         </a>
+         <div class="details">
+          <a class="title title-link ellipsis antialiased" data-ga-action="topic_thumbnail" data-ga-cat="topics" data-ga-label="topic_link_click_sales" href="/featured/category/sales">
+           Sales
+          </a>
+         </div>
+        </div>
+       </li>
+       <li class="ss-thumbnail ss-topic-thumbnail">
+        <div class="thumbnail-content">
+         <button class="action-follow j-action-follow" data-category="science">
+          <i aria-hidden="true" class="fa fa-plus">
+          </i>
+          <span class="visually-hidden text-follow">
+           Follow Science category.
+          </span>
+          <span class="visually-hidden text-unfollow">
+           Unfollow Science category.
+          </span>
+         </button>
+         <a class="link-img" data-ga-action="topic_thumbnail" data-ga-cat="topics" data-ga-label="topic_link_img_click_science" href="/featured/category/science">
+          <img alt="science" class="j-lazy-thumb" data-original="https://public.slidesharecdn.com/images/categories/1x/science.png" src="https://public.slidesharecdn.com/images/categories/category_placeholder.png" title="science"/>
+         </a>
+         <div class="details">
+          <a class="title title-link ellipsis antialiased" data-ga-action="topic_thumbnail" data-ga-cat="topics" data-ga-label="topic_link_click_science" href="/featured/category/science">
+           Science
+          </a>
+         </div>
+        </div>
+       </li>
+       <li class="ss-thumbnail ss-topic-thumbnail">
+        <div class="thumbnail-content">
+         <button class="action-follow j-action-follow" data-category="self-improvement">
+          <i aria-hidden="true" class="fa fa-plus">
+          </i>
+          <span class="visually-hidden text-follow">
+           Follow Self Improvement category.
+          </span>
+          <span class="visually-hidden text-unfollow">
+           Unfollow Self Improvement category.
+          </span>
+         </button>
+         <a class="link-img" data-ga-action="topic_thumbnail" data-ga-cat="topics" data-ga-label="topic_link_img_click_self-improvement" href="/featured/category/self-improvement">
+          <img alt="self-improvement" class="j-lazy-thumb" data-original="https://public.slidesharecdn.com/images/categories/1x/self-improvement.png" src="https://public.slidesharecdn.com/images/categories/category_placeholder.png" title="self-improvement"/>
+         </a>
+         <div class="details">
+          <a class="title title-link ellipsis antialiased" data-ga-action="topic_thumbnail" data-ga-cat="topics" data-ga-label="topic_link_click_self-improvement" href="/featured/category/self-improvement">
+           Self Improvement
+          </a>
+         </div>
+        </div>
+       </li>
+       <li class="ss-thumbnail ss-topic-thumbnail">
+        <div class="thumbnail-content">
+         <button class="action-follow j-action-follow" data-category="services">
+          <i aria-hidden="true" class="fa fa-plus">
+          </i>
+          <span class="visually-hidden text-follow">
+           Follow Services category.
+          </span>
+          <span class="visually-hidden text-unfollow">
+           Unfollow Services category.
+          </span>
+         </button>
+         <a class="link-img" data-ga-action="topic_thumbnail" data-ga-cat="topics" data-ga-label="topic_link_img_click_services" href="/featured/category/services">
+          <img alt="services" class="j-lazy-thumb" data-original="https://public.slidesharecdn.com/images/categories/1x/services.png" src="https://public.slidesharecdn.com/images/categories/category_placeholder.png" title="services"/>
+         </a>
+         <div class="details">
+          <a class="title title-link ellipsis antialiased" data-ga-action="topic_thumbnail" data-ga-cat="topics" data-ga-label="topic_link_click_services" href="/featured/category/services">
+           Services
+          </a>
+         </div>
+        </div>
+       </li>
+       <li class="ss-thumbnail ss-topic-thumbnail">
+        <div class="thumbnail-content">
+         <button class="action-follow j-action-follow" data-category="small-business-entrepreneurship">
+          <i aria-hidden="true" class="fa fa-plus">
+          </i>
+          <span class="visually-hidden text-follow">
+           Follow Small Business &amp; Entrepreneurship category.
+          </span>
+          <span class="visually-hidden text-unfollow">
+           Unfollow Small Business &amp; Entrepreneurship category.
+          </span>
+         </button>
+         <a class="link-img" data-ga-action="topic_thumbnail" data-ga-cat="topics" data-ga-label="topic_link_img_click_small-business-entrepreneurship" href="/featured/category/small-business-entrepreneurship">
+          <img alt="small-business-entrepreneurship" class="j-lazy-thumb" data-original="https://public.slidesharecdn.com/images/categories/1x/small-business-entrepreneurship.png" src="https://public.slidesharecdn.com/images/categories/category_placeholder.png" title="small-business-entrepreneurship"/>
+         </a>
+         <div class="details">
+          <a class="title title-link ellipsis antialiased" data-ga-action="topic_thumbnail" data-ga-cat="topics" data-ga-label="topic_link_click_small-business-entrepreneurship" href="/featured/category/small-business-entrepreneurship">
+           Small Business &amp; Entrepreneurship
+          </a>
+         </div>
+        </div>
+       </li>
+       <li class="ss-thumbnail ss-topic-thumbnail">
+        <div class="thumbnail-content">
+         <button class="action-follow j-action-follow" data-category="Social-Media">
+          <i aria-hidden="true" class="fa fa-plus">
+          </i>
+          <span class="visually-hidden text-follow">
+           Follow Social Media category.
+          </span>
+          <span class="visually-hidden text-unfollow">
+           Unfollow Social Media category.
+          </span>
+         </button>
+         <a class="link-img" data-ga-action="topic_thumbnail" data-ga-cat="topics" data-ga-label="topic_link_img_click_Social-Media" href="/featured/category/Social-Media">
+          <img alt="Social-Media" class="j-lazy-thumb" data-original="https://public.slidesharecdn.com/images/categories/1x/social-media.png" src="https://public.slidesharecdn.com/images/categories/category_placeholder.png" title="Social-Media"/>
+         </a>
+         <div class="details">
+          <a class="title title-link ellipsis antialiased" data-ga-action="topic_thumbnail" data-ga-cat="topics" data-ga-label="topic_link_click_Social-Media" href="/featured/category/Social-Media">
+           Social Media
+          </a>
+         </div>
+        </div>
+       </li>
+       <li class="ss-thumbnail ss-topic-thumbnail">
+        <div class="thumbnail-content">
+         <button class="action-follow j-action-follow" data-category="software">
+          <i aria-hidden="true" class="fa fa-plus">
+          </i>
+          <span class="visually-hidden text-follow">
+           Follow Software category.
+          </span>
+          <span class="visually-hidden text-unfollow">
+           Unfollow Software category.
+          </span>
+         </button>
+         <a class="link-img" data-ga-action="topic_thumbnail" data-ga-cat="topics" data-ga-label="topic_link_img_click_software" href="/featured/category/software">
+          <img alt="software" class="j-lazy-thumb" data-original="https://public.slidesharecdn.com/images/categories/1x/software.png" src="https://public.slidesharecdn.com/images/categories/category_placeholder.png" title="software"/>
+         </a>
+         <div class="details">
+          <a class="title title-link ellipsis antialiased" data-ga-action="topic_thumbnail" data-ga-cat="topics" data-ga-label="topic_link_click_software" href="/featured/category/software">
+           Software
+          </a>
+         </div>
+        </div>
+       </li>
+       <li class="ss-thumbnail ss-topic-thumbnail">
+        <div class="thumbnail-content">
+         <button class="action-follow j-action-follow" data-category="spiritual">
+          <i aria-hidden="true" class="fa fa-plus">
+          </i>
+          <span class="visually-hidden text-follow">
+           Follow Spiritual category.
+          </span>
+          <span class="visually-hidden text-unfollow">
+           Unfollow Spiritual category.
+          </span>
+         </button>
+         <a class="link-img" data-ga-action="topic_thumbnail" data-ga-cat="topics" data-ga-label="topic_link_img_click_spiritual" href="/featured/category/spiritual">
+          <img alt="spiritual" class="j-lazy-thumb" data-original="https://public.slidesharecdn.com/images/categories/1x/spiritual.png" src="https://public.slidesharecdn.com/images/categories/category_placeholder.png" title="spiritual"/>
+         </a>
+         <div class="details">
+          <a class="title title-link ellipsis antialiased" data-ga-action="topic_thumbnail" data-ga-cat="topics" data-ga-label="topic_link_click_spiritual" href="/featured/category/spiritual">
+           Spiritual
+          </a>
+         </div>
+        </div>
+       </li>
+       <li class="ss-thumbnail ss-topic-thumbnail">
+        <div class="thumbnail-content">
+         <button class="action-follow j-action-follow" data-category="sports">
+          <i aria-hidden="true" class="fa fa-plus">
+          </i>
+          <span class="visually-hidden text-follow">
+           Follow Sports category.
+          </span>
+          <span class="visually-hidden text-unfollow">
+           Unfollow Sports category.
+          </span>
+         </button>
+         <a class="link-img" data-ga-action="topic_thumbnail" data-ga-cat="topics" data-ga-label="topic_link_img_click_sports" href="/featured/category/sports">
+          <img alt="sports" class="j-lazy-thumb" data-original="https://public.slidesharecdn.com/images/categories/1x/sports.png" src="https://public.slidesharecdn.com/images/categories/category_placeholder.png" title="sports"/>
+         </a>
+         <div class="details">
+          <a class="title title-link ellipsis antialiased" data-ga-action="topic_thumbnail" data-ga-cat="topics" data-ga-label="topic_link_click_sports" href="/featured/category/sports">
+           Sports
+          </a>
+         </div>
+        </div>
+       </li>
+       <li class="ss-thumbnail ss-topic-thumbnail">
+        <div class="thumbnail-content">
+         <button class="action-follow j-action-follow" data-category="technology">
+          <i aria-hidden="true" class="fa fa-plus">
+          </i>
+          <span class="visually-hidden text-follow">
+           Follow Technology category.
+          </span>
+          <span class="visually-hidden text-unfollow">
+           Unfollow Technology category.
+          </span>
+         </button>
+         <a class="link-img" data-ga-action="topic_thumbnail" data-ga-cat="topics" data-ga-label="topic_link_img_click_technology" href="/featured/category/technology">
+          <img alt="technology" class="j-lazy-thumb" data-original="https://public.slidesharecdn.com/images/categories/1x/technology.png" src="https://public.slidesharecdn.com/images/categories/category_placeholder.png" title="technology"/>
+         </a>
+         <div class="details">
+          <a class="title title-link ellipsis antialiased" data-ga-action="topic_thumbnail" data-ga-cat="topics" data-ga-label="topic_link_click_technology" href="/featured/category/technology">
+           Technology
+          </a>
+         </div>
+        </div>
+       </li>
+       <li class="ss-thumbnail ss-topic-thumbnail">
+        <div class="thumbnail-content">
+         <button class="action-follow j-action-follow" data-category="travel">
+          <i aria-hidden="true" class="fa fa-plus">
+          </i>
+          <span class="visually-hidden text-follow">
+           Follow Travel category.
+          </span>
+          <span class="visually-hidden text-unfollow">
+           Unfollow Travel category.
+          </span>
+         </button>
+         <a class="link-img" data-ga-action="topic_thumbnail" data-ga-cat="topics" data-ga-label="topic_link_img_click_travel" href="/featured/category/travel">
+          <img alt="travel" class="j-lazy-thumb" data-original="https://public.slidesharecdn.com/images/categories/1x/travel.png" src="https://public.slidesharecdn.com/images/categories/category_placeholder.png" title="travel"/>
+         </a>
+         <div class="details">
+          <a class="title title-link ellipsis antialiased" data-ga-action="topic_thumbnail" data-ga-cat="topics" data-ga-label="topic_link_click_travel" href="/featured/category/travel">
+           Travel
+          </a>
+         </div>
+        </div>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <section>
+     <!-- /#topics-content -->
+     <footer>
+      <div class="row">
+       <div class="columns">
+        <div id="smt-lang-selector">
+        </div>
+        <ul class="j-languages-selector language-links text-center">
+         <li class="smt-item j-www">
+          <a class="smt-link" href="https://www.slideshare.net/explore" hreflang="en" lang="en" title="Explore - English">
+           English
+          </a>
+         </li>
+         <li class="smt-item j-es">
+          <a class="smt-link" href="https://es.slideshare.net/explore" hreflang="es" lang="es" title="Explore - Espanol">
+           Español
+          </a>
+         </li>
+         <li class="smt-item j-pt">
+          <a class="smt-link" href="https://pt.slideshare.net/explore" hreflang="pt" lang="pt" title="Explore - Portugues">
+           Português
+          </a>
+         </li>
+         <li class="smt-item j-fr">
+          <a class="smt-link" href="https://fr.slideshare.net/explore" hreflang="fr" lang="fr" title="Explore - Français">
+           Français
+          </a>
+         </li>
+         <li class="smt-item j-de">
+          <a class="smt-link" href="https://de.slideshare.net/explore" hreflang="de" lang="de" title="Explore - Deutsche">
+           Deutsch
+          </a>
+         </li>
+        </ul>
+       </div>
+      </div>
+      <div class="row">
+       <div class="columns">
+        <ul class="main-links text-center">
+         <li>
+          <a href="/about">
+           About
+          </a>
+         </li>
+         <li class="hidden-for-small">
+          <a href="/developers">
+           Dev &amp; API
+          </a>
+         </li>
+         <li>
+          <a href="http://blog.slideshare.net/">
+           Blog
+          </a>
+         </li>
+         <li>
+          <a href="/terms">
+           Terms
+          </a>
+         </li>
+         <li>
+          <a href="/privacy">
+           Privacy
+          </a>
+         </li>
+         <li>
+          <a href="http://www.linkedin.com/legal/copyright-policy">
+           Copyright
+          </a>
+         </li>
+         <li class="hidden-for-small">
+          <a href="https://www.linkedin.com/help/slideshare">
+           Support
+          </a>
+         </li>
+        </ul>
+       </div>
+      </div>
+      <div class="row">
+       <div class="columns">
+        <ul class="social-links text-center">
+         <li>
+          <a class="fa fa-linkedin-square fa-lg" href="http://www.linkedin.com/company/linkedin" rel="nofollow" target="_blank" title="Follow us on LinkedIn">
+          </a>
+         </li>
+         <li>
+          <a class="fa fa-facebook-square fa-lg" href="http://www.facebook.com/LinkedIn" rel="nofollow" target="_blank" title="Follow us on Facebook">
+          </a>
+         </li>
+         <li>
+          <a class="fa fa-twitter-square fa-lg" href="http://twitter.com/SlideShare" rel="nofollow" target="_blank" title="Follow us on Twitter">
+          </a>
+         </li>
+         <li>
+          <a class="fa fa-google-plus-square fa-lg" href="http://www.google.com/+LinkedIn" rel="nofollow" target="_blank" title="Follow us on Google+">
+          </a>
+         </li>
+         <li>
+          <a class="fa fa-rss-square fa-lg" href="https://www.slideshare.net/rss/latest">
+          </a>
+         </li>
+        </ul>
+       </div>
+      </div>
+      <div class="row">
+       <div class="columns">
+        <p class="copyright text-center">
+         LinkedIn Corporation © 2020
+        </p>
+        <p>
+        </p>
+       </div>
+      </div>
+     </footer>
+    </section>
+   </section>
+  </div>
+  <div class="reveal-modal" data-reveal="" id="alert-modal">
+   <p>
+   </p>
+   <a class="close-reveal-modal">
+    ×
+   </a>
+  </div>
+  <div class="modal_popup_container">
+  </div>
+  <script src="https://public.slidesharecdn.com/ss_foundation/combined_foundation_base.js?7ae1f1b017" type="text/javascript">
+  </script>
+  <script>
+   $(window).load(function() {
+        loadCSS("//public.slidesharecdn.com/ss_foundation/stylesheets/app.css?729d15c790fce99ffa8ca012c71984ee4b43ca41");
+      });
+  </script>
+  <script type="text/javascript">
+   $(function() {
+      // TOPICS
+
+      var gaCat = "topics";
+
+      slideshare_object.ga(gaCat, 'pageload', null, null, true);
+
+      /* Update status of the follow action
+       *
+       * Parameters:
+       * elem <selector> the action-btn to be toggled
+       * category url of the category to update
+       */
+
+      var followStatusUpdate = function(el, category){
+        var $el = $(el);
+        var isFollowing = $el.find('.fa').hasClass('fa-check');
+
+        var config = {
+          'url':  isFollowing ? "/follow/delete" : "/follow/create",
+          'data': {
+            user_id : slideshare_object.user ? slideshare_object.user.id : '',
+            category : category
+          }
+        };
+
+        $el.find('.fa').toggleClass('fa-check fa-plus');
+
+        $.ajax({
+          url: config.url,
+          data: config.data,
+          dataType: 'json',
+          type: 'POST',
+          success: function(response) {
+            if(response.success){
+              slideshare_object.ga(gaCat, isFollowing ? 'unfollow_topic_click' : 'follow_topic_click', category);
+            }
+          },
+          error: function(data) {
+            $el.children().toggleClass('fa-check fa-plus');
+          }
+        });
+      };
+
+      $('.j-action-follow').on('click', function(e) {
+        var $this = $(this);
+        var category = $this.data('category');
+
+        if (slideshare_object.user.loggedin){
+          e.preventDefault();
+          followStatusUpdate(this, category);
+        } else {
+          var eventConfig = {
+            "event" : "follow_category",
+            "data" : { "category" : category}
+          };
+
+          slideshare_object.addAfterLoginEvent(eventConfig);
+          window.location = '/login?login_source=topics.follow_category&from_source=/topics';
+        }
+      });
+
+      slideshare_object.lazyloadThumbnails();
+    });
+  </script>
+ </body>
+</html>
